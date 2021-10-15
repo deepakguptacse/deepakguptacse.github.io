@@ -1,4 +1,0 @@
-# deepakguptacse.github.io
-
-Blogs:
-...
