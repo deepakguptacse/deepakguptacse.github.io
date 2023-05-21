@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to do Effective Code Reviews: A Guide for Software Developers
+title: "How to do Effective Code Reviews: A Guide for Software Developers"
 tags:
   - code review
   - software development
